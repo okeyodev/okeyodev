@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Okeyode Victor
 
-💻 **Aspiring Full-Stack Developer** | Currently learning **HTML & CSS** → Next: **JavaScript & React** 🚀  
+💻 **Aspiring Full-Stack Developer** | Done with **HTML & CSS** | Currently learning **JAVASCRIPT** → Next: **React & Beyond** 🚀  
 
 🌱 I’m sharing my **#WebDevJourney** by:  
 - 📚 Documenting my coding progress  
